@@ -1,0 +1,187 @@
+﻿{
+	"Patient": {
+		"PatCode": "10086",
+		"InHospNo": "0",
+		"VisitCode": "001",
+		"Name": "南北",
+		"Sex": "女",
+		"Birthday": "1980-10-10",
+		"HeightCM": "160",
+		"WeighKG": "45",
+		"DeptName": "内科",
+		"DoctorName": "阿木木",
+		"IsLactation": 0,
+		"IsPregnancy": 0,
+		"PregStartDate": "",
+		"HepDamageDegree": 0,
+		"RenDamageDegree": 0,
+		"UseTime": "2020-04-01",
+		"Age": "39",
+		"CheckMode": 0
+	},
+	"ScreenMedCondList": {
+		"ScreenMedConds": [
+			{
+				"Index": 0,
+				"DiseaseCode": "N18.919",
+				"DiseaseName": "慢性肾功能不全尿毒症期",
+				"RecipNo": ""
+			},
+			{
+				"Index": 1,
+				"DiseaseCode": "E14.901",
+				"DiseaseName": "糖尿病",
+				"RecipNo": ""
+			},
+			{
+				"Index": 2,
+				"DiseaseCode": "K56.603",
+				"DiseaseName": "机械性肠梗阻",
+				"RecipNo": ""
+			},
+			{
+				"Index": 3,
+				"DiseaseCode": "I50.904",
+				"DiseaseName": "急性心力衰竭",
+				"RecipNo": ""
+			},
+			{
+				"Index": 4,
+				"DiseaseCode": "K25.004",
+				"DiseaseName": "胃溃疡伴急性出血",
+				"RecipNo": ""
+			},
+			{
+				"Index": 5,
+				"DiseaseCode": "I33.029",
+				"DiseaseName": "急性感染性心内膜炎",
+				"RecipNo": ""
+			},
+			{
+				"Index": 6,
+				"DiseaseCode": "I60.901",
+				"DiseaseName": "蛛网膜下腔出血",
+				"RecipNo": ""
+			},
+			{
+				"Index": 7,
+				"DiseaseCode": "K92.208",
+				"DiseaseName": "消化道出血",
+				"RecipNo": ""
+			},
+			{
+				"Index": 8,
+				"DiseaseCode": "I63",
+				"DiseaseName": "脑梗死",
+				"RecipNo": ""
+			}
+		]
+	},
+	"ScreenAllergenList": {
+		"ScreenAllergens": [
+			{
+				"Index": 0,
+				"AllerCode": "G1.1",
+				"AllerName": "大豆",
+				"AllerSymptom": "皮疹"
+			}
+		]
+	},
+		"ScreenOperationList": {
+		"ScreenOperations": [
+			{
+				"Index": 0,
+				"OprCode": "是",
+				"OprName": "微创",
+				"IncisionType": "1",
+				"OprStartDate": "2020-01-01",
+				"OprEndDate": "2020-01-01"
+			}
+		]
+	},
+	"ScreenDrugList": {
+		"ScreenDrugs": [
+			{
+				"Index": 0,
+				"OrderNo": 1,
+				"DrugUniqueCode": "66908",
+				"DrugName": "多潘立酮分散片",
+				"DosePerTime": "",
+				"DoseUnit": "mg",
+				"Frequency": "",
+				"RouteCode": "122",
+				"RouteName": "口服",
+				"StartTime": "2018-03-06 11:47:34",
+				"EndTime": "",
+				"ExecuteTime": "",
+				"GroupTag": "",
+				"IsTempDrug": "0",
+				"OrderType": "0",
+				"DeptCode": "",
+				"DeptName": "",
+				"DoctorCode": "",
+				"DoctorName": "",
+				"RecipNo": "",
+				"Num": "",
+				"NumUnit": "",
+				"Purpose": "0",
+				"MediTime": "",
+				"Remark": ""
+			},
+			{
+				"Index": 1,
+				"OrderNo": 2,
+				"DrugUniqueCode": "219755",
+				"DrugName": "那曲肝素钙注射液",
+				"DosePerTime": "",
+				"DoseUnit": "U",
+				"Frequency": "",
+				"RouteCode": "7",
+				"RouteName": "静脉推注",
+				"StartTime": "2018-03-06 11:05:36",
+				"EndTime": "",
+				"ExecuteTime": "",
+				"GroupTag": "",
+				"IsTempDrug": "0",
+				"OrderType": "0",
+				"DeptCode": "",
+				"DeptName": "",
+				"DoctorCode": "",
+				"DoctorName": "",
+				"RecipNo": "",
+				"Num": "",
+				"NumUnit": "",
+				"Purpose": "0",
+				"MediTime": "",
+				"Remark": ""
+			},
+			{
+				"Index": 2,
+				"OrderNo": 3,
+				"DrugUniqueCode": "101",
+				"DrugName": "注射用阿替普酶",
+				"DosePerTime": "",
+				"DoseUnit": "mg",
+				"Frequency": "",
+				"RouteCode": "57",
+				"RouteName": "静脉滴注",
+				"StartTime": "2018-03-06 14:32:46",
+				"EndTime": "",
+				"ExecuteTime": "",
+				"GroupTag": "",
+				"IsTempDrug": "0",
+				"OrderType": "0",
+				"DeptCode": "",
+				"DeptName": "",
+				"DoctorCode": "",
+				"DoctorName": "",
+				"RecipNo": "",
+				"Num": "",
+				"NumUnit": "",
+				"Purpose": "0",
+				"MediTime": "",
+				"Remark": ""
+			}
+		]
+	}
+}

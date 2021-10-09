@@ -1,0 +1,107 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:PASS4Consider"
+        xmlns:Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero" x:Class="PASS4Consider.MainWindow"
+        mc:Ignorable="d"
+        Title="PASS4用药研究" Height="600" Width="271" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FFF0F0F0" WindowStyle="None" Icon="app.ico">
+    <Window.Resources>
+        <Style TargetType="DatePickerTextBox">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <TextBox Text="{Binding Path=SelectedDate, StringFormat='yyyy-MM-dd', RelativeSource={RelativeSource AncestorType=DatePicker}}" BorderThickness="0,0,0,1" Margin="0,0,0,0" />
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid Background="SeaShell">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Border BorderBrush="#FFB6B6B6" BorderThickness="1" Height="608" VerticalAlignment="Top" Margin="0,2,0,-10"/>
+
+        <Rectangle HorizontalAlignment="Left" Height="44" VerticalAlignment="Top" Width="270" Margin="1,1,0,0">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <ScaleTransform CenterY="0.5" CenterX="0.5"/>
+                            <SkewTransform CenterY="0.5" CenterX="0.5"/>
+                            <RotateTransform Angle="488.28999999999996" CenterY="0.5" CenterX="0.5"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="#FFFB8E5B"/>
+                    <GradientStop Color="#FFFF210B" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label x:Name="用药研究" Content="快速录入" HorizontalAlignment="Left" Margin="99,7,0,0" VerticalAlignment="Top" Foreground="WhiteSmoke" FontWeight="Bold" FontSize="14.667"/>
+        <Button x:Name="按钮保存" Content="保  存" HorizontalAlignment="Left" Margin="26,554,0,0" VerticalAlignment="Top" Width="67" Background="#FFFAE8AC" Foreground="#FF2E2E2E" FontSize="13.333" Height="25" BorderBrush="#FFD8D8D8"/>
+        <Button x:Name="按钮审查" Content="审  查" HorizontalAlignment="Left" Margin="93,554,0,0" VerticalAlignment="Top" Width="72" Background="#FFFAE8AC" Foreground="#FF2E2E2E" FontSize="13.333" Height="25" BorderBrush="#FFD8D8D8" IsEnabled="False" Opacity="0.3"/>
+        <Button x:Name="按钮说明书" Content="说明书" HorizontalAlignment="Left" Margin="165,554,0,0" VerticalAlignment="Top" Width="72" Background="#FFFAE8AC" Foreground="#FF2E2E2E" FontSize="13.333" Height="25" BorderBrush="#FFD8D8D8" IsEnabled="False" Opacity="0.3"/>
+        <Image x:Name="按钮退出图标" Height="23" VerticalAlignment="Bottom" RenderTransformOrigin="-25.138,0.63" Source="image/exit.png" Margin="241,0,10,567" Stretch="Fill" MouseDown="按钮退出图标_MouseDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0.281"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.259"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Grid x:Name="___Grid_GMY_Copy" Margin="6,232,6,122">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <DataGrid x:Name="表格过敏原1" CanUserAddRows="False" AutoGenerateColumns="False" ItemsSource="{Binding}" HorizontalAlignment="Left" Margin="0,24,0,0" VerticalAlignment="Top"  Height="222" Width="259" Background="#FFFFFBF8" BorderBrush="#FFD8D8D8" HorizontalGridLinesBrush="Silver" GridLinesVisibility="Horizontal">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="代码"  Width="40" Binding="{Binding pcAllerCode}"/>
+                    <DataGridTextColumn  Header="名称" Width="100" Binding="{Binding pcAllerName}"/>
+                    <DataGridTextColumn  Header="症状" Width="100" Binding="{Binding pcAllerSymptom}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button x:Name="按钮过敏原增加1" Content="✖" HorizontalAlignment="Left" Margin="232,-1,0,0" VerticalAlignment="Top" Width="27" Background="{x:Null}" Foreground="#FF2E2E2E" FontSize="10.667" Height="23" Click="按钮过敏原增加_Click" BorderThickness="0,0,0,1">
+                <Button.BorderBrush>
+                    <SolidColorBrush Color="#FFABADB3"/>
+                </Button.BorderBrush>
+            </Button>
+            <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="20" Margin="55,2,0,0" TextWrapping="Wrap" Text="输入药品关键字" VerticalAlignment="Top" Width="119" Background="{x:Null}" BorderThickness="0,0,0,1"/>
+            <Button x:Name="按钮过敏原增加_Copy2" Content="➕" HorizontalAlignment="Left" Margin="204,-1,0,0" VerticalAlignment="Top" Width="27" Background="{x:Null}" Foreground="#FF2E2E2E" FontSize="10.667" Height="23" Click="按钮过敏原增加_Click" BorderThickness="0,0,0,1">
+                <Button.BorderBrush>
+                    <SolidColorBrush Color="#FFABADB3"/>
+                </Button.BorderBrush>
+            </Button>
+            <Button x:Name="按钮过敏原增加_Copy3" Content="🔍" HorizontalAlignment="Left" Margin="176,-1,0,0" VerticalAlignment="Top" Width="27" Background="{x:Null}" Foreground="#FF2E2E2E" FontSize="10.667" Height="23" Click="按钮过敏原增加_Click" BorderThickness="0,0,0,1">
+                <Button.BorderBrush>
+                    <SolidColorBrush Color="#FFABADB3"/>
+                </Button.BorderBrush>
+            </Button>
+            <Label x:Name="label" Content="   药品 " HorizontalAlignment="Left" VerticalAlignment="Top" Width="53" Background="{x:Null}" BorderThickness="0" Height="25" Margin="0,-3,0,0" BorderBrush="#FFABADB3"/>
+        </Grid>
+        <Grid x:Name="___Grid_GMY_Copy1" Margin="6,50,6,373">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <DataGrid x:Name="表格过敏原2" CanUserAddRows="False" AutoGenerateColumns="False" ItemsSource="{Binding}" HorizontalAlignment="Left" Margin="0,24,0,0" VerticalAlignment="Top"  Height="153" Width="259" Background="#FFFFFBF8" BorderBrush="#FFD8D8D8" HorizontalGridLinesBrush="Silver" GridLinesVisibility="Horizontal">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="代码"  Width="40" Binding="{Binding pcAllerCode}"/>
+                    <DataGridTextColumn  Header="名称" Width="100" Binding="{Binding pcAllerName}"/>
+                    <DataGridTextColumn  Header="症状" Width="100" Binding="{Binding pcAllerSymptom}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button x:Name="按钮过敏原增加2" Content="✖" HorizontalAlignment="Left" Margin="232,-1,0,0" VerticalAlignment="Top" Width="27" Background="{x:Null}" Foreground="#FF2E2E2E" FontSize="10.667" Height="23" Click="按钮过敏原增加_Click" BorderThickness="0,0,0,1" BorderBrush="#FFABADB3"/>
+            <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="20" Margin="61,2,0,0" TextWrapping="Wrap" Text="输入药品关键字" VerticalAlignment="Top" Width="113" Background="{x:Null}" BorderThickness="0,0,0,1"/>
+            <Button x:Name="按钮过敏原增加_Copy1" Content="➕" HorizontalAlignment="Left" Margin="204,-1,0,0" VerticalAlignment="Top" Width="27" Background="{x:Null}" Foreground="#FF2E2E2E" FontSize="10.667" Height="23" Click="按钮过敏原增加_Click" BorderThickness="0,0,0,1" BorderBrush="#FFABADB3"/>
+            <Button x:Name="按钮过敏原增加_Copy4" Content="🔍" HorizontalAlignment="Left" Margin="176,-1,0,0" VerticalAlignment="Top" Width="27" Background="{x:Null}" Foreground="#FF2E2E2E" FontSize="10.667" Height="23" Click="按钮过敏原增加_Click" BorderThickness="0,0,0,1" BorderBrush="#FFABADB3"/>
+            <Label x:Name="label1" Content="&lt; 疾病 &gt;" HorizontalAlignment="Left" VerticalAlignment="Top" Width="57" Background="{x:Null}" BorderThickness="0" Height="25" Margin="0,-3,0,0" BorderBrush="#FFABADB3"/>
+        </Grid>
+
+    </Grid>
+</Window>

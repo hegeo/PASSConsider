@@ -1,0 +1,91 @@
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\bin\Debug\PASS4Consider.exe.config
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\bin\Debug\PASS4Consider.exe
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\bin\Debug\PASS4Consider.pdb
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.csprojResolveAssemblyReference.cache
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\MainWindow.g.cs
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\App.g.cs
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.cache
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.lref
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\MainWindow.baml
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.g.resources
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.Properties.Resources.resources
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.csproj.GenerateResource.Cache
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.exe
+c:\users\great\documents\visual studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.pdb
+C:\Users\Great\Documents\Visual Studio 2015\Projects\PASS4Consider\PASS4Consider\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\bin\Debug\PASS4Consider.exe.config
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.exe
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.pdb
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\bin\Debug\PASS4Consider.exe
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\bin\Debug\PASS4Consider.pdb
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.cache
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.lref
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.g.resources
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.csproj.GenerateResource.Cache
+D:\PASS4Consider\PASS4Consider\bin\Debug\PASS4Consider.exe.config
+D:\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.exe
+D:\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.pdb
+D:\PASS4Consider\PASS4Consider\bin\Debug\PASS4Consider.exe
+D:\PASS4Consider\PASS4Consider\bin\Debug\PASS4Consider.pdb
+D:\PASS4Consider\PASS4Consider\bin\Debug\Newtonsoft.Json.dll
+D:\PASS4Consider\PASS4Consider\obj\Debug\MainWindow.g.cs
+D:\PASS4Consider\PASS4Consider\obj\Debug\App.g.cs
+D:\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.cache
+D:\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.lref
+D:\PASS4Consider\PASS4Consider\obj\Debug\App.baml
+D:\PASS4Consider\PASS4Consider\obj\Debug\MainWindow.baml
+D:\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.g.resources
+D:\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.Properties.Resources.resources
+D:\PASS4Consider\PASS4Consider\obj\Debug\PASS4Consider.csproj.GenerateResource.Cache
+D:\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\PASS4Consider.exe.config
+D:\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\PASS4Consider.exe
+D:\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\PASS4Consider.pdb
+D:\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\Newtonsoft.Json.dll
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\MainWindow.g.cs
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\App.g.cs
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.cache
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.lref
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\App.baml
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\MainWindow.baml
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.g.resources
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.Properties.Resources.resources
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.csproj.GenerateResource.Cache
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.exe
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.pdb
+D:\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.csprojResolveAssemblyReference.cache
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\PASS4Consider.exe.config
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.exe
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.pdb
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\PASS4Consider.exe
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\PASS4Consider.pdb
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\MainWindow.g.cs
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\App.g.cs
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.cache
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.lref
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\App.baml
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\MainWindow.baml
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.g.resources
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.Properties.Resources.resources
+C:\Users\Great\Desktop\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.csproj.GenerateResource.Cache
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\PASS4Consider.exe.config
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\PASS4Consider.exe
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\PASS4Consider.pdb
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\bin\Debug\Newtonsoft.Json.dll
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.csprojResolveAssemblyReference.cache
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\MainWindow.g.cs
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\App.g.cs
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.cache
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider_MarkupCompile.lref
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\App.baml
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\MainWindow.baml
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.g.resources
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.Properties.Resources.resources
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.csproj.GenerateResource.Cache
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.exe
+D:\工作文档\项目文件\PASS4ConsiderN4.5\PASS4Consider\obj\Debug\PASS4Consider.pdb
